@@ -1,0 +1,8 @@
+do physics;page 123;done
+do maths;page 123;done
+exercise no.1;page 123;not done
+page 123;pager 123;not done
+buruwa;buruwa;not done
+j;l;not done
+do maths;page 123;not done
+do sdhk;adjh;not done

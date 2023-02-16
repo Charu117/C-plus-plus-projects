@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/HD/Projects/C++/Crypter/Crypter.cpp
+Crypter.h
+/Volumes/HD/Projects/C++/Crypter/Crypter.h
+fstream
+-
+string
+-
+
+/Volumes/HD/Projects/C++/Crypter/Crypter.h
+iostream
+-
+

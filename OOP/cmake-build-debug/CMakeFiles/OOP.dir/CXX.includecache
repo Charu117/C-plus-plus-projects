@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/HD/Projects/C++/OOP/Vec.cpp
+Vec.h
+/Volumes/HD/Projects/C++/OOP/Vec.h
+
+/Volumes/HD/Projects/C++/OOP/Vec.h
+vector
+-
+
+/Volumes/HD/Projects/C++/OOP/main.cpp
+iostream
+-
+time.h
+-
+stdlib.h
+-
+vector
+-
+

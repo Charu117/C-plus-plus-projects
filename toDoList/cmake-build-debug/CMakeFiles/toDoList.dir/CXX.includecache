@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/HD/Projects/C++/toDoList/ToDoList.h
+iostream
+-
+vector
+-
+
+/Volumes/HD/Projects/C++/toDoList/main.cpp
+ToDoList.h
+/Volumes/HD/Projects/C++/toDoList/ToDoList.h
+vector
+-
+
